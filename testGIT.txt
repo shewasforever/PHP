@@ -1,1 +1,5 @@
 ╡Бйт╣дgitнд╪Ч
+<?php
+
+echo 'hello world!';
+?>
