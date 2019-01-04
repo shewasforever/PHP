@@ -1,5 +1,5 @@
 <?php
 
 echo "liming";
-
+print_r("ÀïÃæ");
 ?>
